@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - [Live](https://lonelybuddy.github.io/testimonial-grid-section/)
-- [Solution]()
+- [Solution](https://www.frontendmentor.io/solutions/htmlcssscass-NUkygMYdf)
 
 ### Built with
 

@@ -1,0 +1,43 @@
+.flex {
+  display: flex;
+
+  &-j-c-center {
+    justify-content: center;
+  }
+}
+
+.outline-rd-border {
+  outline: 2px solid #a775f1;
+}
+.opacity-50 {
+  opacity: 0.5;
+}
+.opacity-70 {
+  opacity: 0.7;
+}
+
+.text-white {
+  color: var(--white);
+}
+.text-light-gray {
+  color: var(--light-gray);
+}
+.text-dark-grayish-blue {
+  color: var(--very-dark-grayish-lue);
+}
+.bg-white {
+  background-color: var(--white);
+}
+.bg-light-grayish-blue {
+  background-color: var(--light-grayish-blue);
+}
+.bg-violet {
+  background-color: var(--moderate-violet);
+}
+.bg-dark-blackish-blue {
+  background-color: var(--very-dark-blackish-blue);
+}
+
+.bg-dark-grayish-blue {
+  background-color: var(--very-dark-grayish-lue);
+}
